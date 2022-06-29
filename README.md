@@ -24,3 +24,9 @@ data = ("John", "Doe", 53.44)
 format_string = "Hello"
 
 print(format_string % data)
+---------------------------------------------------------------------------
+Basic String Operations
+Strings are bits of text. They can be defined as anything between quotes:
+
+
+
